@@ -189,7 +189,6 @@ PRODUCT_COPY_FILES += \
     vendor/nubia/nx569j/proprietary/lib/libBuffer.so:system/lib/libBuffer.so \
     vendor/nubia/nx569j/proprietary/lib/libBurstProcessJni.so:system/lib/libBurstProcessJni.so \
     vendor/nubia/nx569j/proprietary/lib/libIndependenceUtil.so:system/lib/libIndependenceUtil.so \
-    vendor/nubia/nx569j/proprietary/lib/libLLVM.so:system/lib/libLLVM.so \
     vendor/nubia/nx569j/proprietary/lib/libMcClient.so:system/lib/libMcClient.so \
     vendor/nubia/nx569j/proprietary/lib/libMcRegistry.so:system/lib/libMcRegistry.so \
     vendor/nubia/nx569j/proprietary/lib/libNubiaImageAlgorithm.so:system/lib/libNubiaImageAlgorithm.so \
@@ -272,7 +271,6 @@ PRODUCT_COPY_FILES += \
     vendor/nubia/nx569j/proprietary/lib64/libDualCamera_Calibration.so:system/lib64/libDualCamera_Calibration.so \
     vendor/nubia/nx569j/proprietary/lib64/libImageProc.so:system/lib64/libImageProc.so \
     vendor/nubia/nx569j/proprietary/lib64/libIndependenceUtil.so:system/lib64/libIndependenceUtil.so \
-    vendor/nubia/nx569j/proprietary/lib64/libLLVM.so:system/lib64/libLLVM.so \
     vendor/nubia/nx569j/proprietary/lib64/libMcClient.so:system/lib64/libMcClient.so \
     vendor/nubia/nx569j/proprietary/lib64/libMcRegistry.so:system/lib64/libMcRegistry.so \
     vendor/nubia/nx569j/proprietary/lib64/libNubiaImageAlgorithm.so:system/lib64/libNubiaImageAlgorithm.so \
