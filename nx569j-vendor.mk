@@ -215,7 +215,6 @@ PRODUCT_COPY_FILES += \
     vendor/nubia/nx569j/proprietary/lib/libassd.so:system/lib/libassd.so \
     vendor/nubia/nx569j/proprietary/lib/libbreathlighthal.so:system/lib/libbreathlighthal.so \
     vendor/nubia/nx569j/proprietary/lib/libbuffer_manager.so:system/lib/libbuffer_manager.so \
-    vendor/nubia/nx569j/proprietary/lib/libcamera_client.so:system/lib/libcamera_client.so \
     vendor/nubia/nx569j/proprietary/lib/libcamera_metadata.so:system/lib/libcamera_metadata.so \
     vendor/nubia/nx569j/proprietary/lib/libdashplayer.so:system/lib/libdashplayer.so \
     vendor/nubia/nx569j/proprietary/lib/libdngcreator.so:system/lib/libdngcreator.so \
@@ -296,7 +295,6 @@ PRODUCT_COPY_FILES += \
     vendor/nubia/nx569j/proprietary/lib64/libavutil.so:system/lib64/libavutil.so \
     vendor/nubia/nx569j/proprietary/lib64/libbreathlighthal.so:system/lib64/libbreathlighthal.so \
     vendor/nubia/nx569j/proprietary/lib64/libbuffer_manager.so:system/lib64/libbuffer_manager.so \
-    vendor/nubia/nx569j/proprietary/lib64/libcamera_client.so:system/lib64/libcamera_client.so \
     vendor/nubia/nx569j/proprietary/lib64/libcamera_metadata.so:system/lib64/libcamera_metadata.so \
     vendor/nubia/nx569j/proprietary/lib64/libdashplayer.so:system/lib64/libdashplayer.so \
     vendor/nubia/nx569j/proprietary/lib64/libdngcreator.so:system/lib64/libdngcreator.so \
