@@ -23,6 +23,7 @@ PRODUCT_COPY_FILES += \
     vendor/nubia/nx569j/proprietary/bin/cnd:system/bin/cnd \
     vendor/nubia/nx569j/proprietary/bin/cnss-daemon:system/bin/cnss-daemon \
     vendor/nubia/nx569j/proprietary/bin/cnssLogsystem:system/bin/cnssLogsystem \
+    vendor/nubia/nx569j/proprietary/bin/cpusetd:system/bin/cpusetd \
     vendor/nubia/nx569j/proprietary/bin/cnss_diag:system/bin/cnss_diag \
     vendor/nubia/nx569j/proprietary/bin/diag_dci_sample:system/bin/diag_dci_sample \
     vendor/nubia/nx569j/proprietary/bin/diag_klog:system/bin/diag_klog \
@@ -74,6 +75,7 @@ PRODUCT_COPY_FILES += \
     vendor/nubia/nx569j/proprietary/bin/tinypcminfo:system/bin/tinypcminfo \
     vendor/nubia/nx569j/proprietary/bin/tinyplay:system/bin/tinyplay \
     vendor/nubia/nx569j/proprietary/bin/wfdservice:system/bin/wfdservice \
+    vendor/nubia/nx569j/proprietary/bin/wirelesstest:system/bin/wirelesstest \
     vendor/nubia/nx569j/proprietary/bin/xtwifi-client:system/bin/xtwifi-client \
     vendor/nubia/nx569j/proprietary/bin/xtwifi-inet-agent:system/bin/xtwifi-inet-agent \
     vendor/nubia/nx569j/proprietary/driver.iso:system/driver.iso \
